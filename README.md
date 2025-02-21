@@ -1,13 +1,13 @@
----
-name: Nguyễn Tạ Minh Trung
-avatar: /static/images/pages/avatar.jpg
-occupation: Senior Software Engineer 🚀
-company: KMS Technology
-phone: +84 384 648 350
-email: trungntm.97@gmail.com
-linkedin: https://www.linkedin.com/in/trung-nguyen-590720192/
-github: https://github.com/trungntm
----
+
+Name: Nguyễn Tạ Minh Trung
+Occupation: Senior Software Engineer 🚀
+Company: KMS Technology
+Phone: +84 384 648 350
+Email: trungntm.97@gmail.com
+LinkedIn: https://www.linkedin.com/in/trung-nguyen-590720192/
+Github: https://github.com/trungntm
+Website: [trungntmnguyen.com](https://trungtmnguyen.com/)
+
 
 # Hello 👋
 
